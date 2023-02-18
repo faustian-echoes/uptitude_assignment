@@ -1,6 +1,6 @@
 # Uptitude Assignment
 
-###################################Uptitude_Data_Cleaning_and_Transformation_in_Python###################################
+################################Uptitude_Data_Cleaning_and_Transformation_in_Python################################
 
 This script contains a python notebook to check which restaurants are open at a particular time based on the list of restaurants provided.
 
